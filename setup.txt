@@ -1,0 +1,4 @@
+flask
+flask-cors
+
+#pip3 install torch torchvision torchaudio
