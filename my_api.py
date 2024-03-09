@@ -40,4 +40,4 @@ def predict_yolov6():
 
 # Start Backend
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port='6868')
+    app.run()
